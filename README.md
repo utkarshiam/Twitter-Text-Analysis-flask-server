@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/utkarshiam/Twitter-Text-Analysis-flask-server.svg)](http://hits.dwyl.io/utkarshiam/Twitter-Text-Analysis-flask-server)
+
+
 # Twitter-Sentiment-Analysis-Web
 Twitter Sentiment Analysis using Textblob and Tweepy, wrapped with Flask as a web app.
 
