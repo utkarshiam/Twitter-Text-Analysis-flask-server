@@ -7,7 +7,7 @@ Twitter Sentiment Analysis using Textblob and Tweepy, wrapped with Flask as a we
 ![Working Demo](https://i.ibb.co/Vx8stRF/Working.gif)
 
 ## Installation
-1. Clone/Download this repository.
+1. Clone this repository.
 2. Obtain your Twitter API credentials.
 3. Replace appropriate credentials in ```main.py``` file.
 4. Install all the required dependencies listed in ```requirements.txt```.
