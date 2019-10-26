@@ -14,7 +14,7 @@ Twitter Sentiment Analysis using Textblob and Tweepy, wrapped with Flask as a we
 5. Run the flask server using ```python main.py``` to see the result on port 5000(by default).
 
 ## A brief on the libraries used :
-Mainly I have used  TextBlob and Tweepy for the main functionality. TextBlob is a great choice for NLP tasks, built on top of the famous Python library for NLP, i.e., NLTK.
+Mainly I have used TextBlob and Tweepy for the main functionality. TextBlob is a great choice for NLP tasks, built on top of the famous Python library for NLP, i.e., NLTK.
 Tweepy is used for Interacting easily with the Twitter API and handling complex tasks such as Authentication(OAuth) with a breeze.
 
 TextBlob allows us to perform sentiment analysis with very few lines of code.
